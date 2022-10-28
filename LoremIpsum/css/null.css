@@ -90,11 +90,11 @@ h6 {
 }
 
 input:-internal-autofill-selected {
-  background-color: rgba(255, 255, 255, 0.85) !important;
+  background-color: #DFDFE0 !important;
   color: #272733 !important;
 }
 
 input:focus {
-  background-color: rgba(255, 255, 255, 0.85) !important;
+  background-color: #DFDFE0 !important;
   color: #272733 !important;
 }
