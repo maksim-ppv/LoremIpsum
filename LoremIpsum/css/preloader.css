@@ -38,6 +38,8 @@
 }
 
 #cube-loader .preloader-logo {
+  width: 250px;
+  height: 22px;
   -webkit-animation: cube 3s infinite;
           animation: cube 3s infinite;
 }
@@ -81,6 +83,7 @@
   }
 
   #cube-loader .preloader-logo {
-    width: 100px;
+    width: 125px;
+    height: 12px;
   }
 }
